@@ -13,3 +13,9 @@ Data Engineer হওয়ার লক্ষ্যে শূন্য থেকে
 - **Git/Github:** init, add, commit, push, pull, gitignore
 - **Python:** str, int, float, casting, f-string
 - **Log Analysis:** terminal, ERROR/WARN count
+
+#My Journey
+writing in main
+Today we learned git
+
+

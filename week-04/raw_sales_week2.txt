@@ -1,0 +1,18 @@
+  ord100055 ; 2026-10-12 ;  ARIF  hossain ; Miniket Chal 5kg ; 1 ; ৳ 620.25 ; BKASH ; delivered
+ORD100056;2026-10-12;shirin  akter;Soybean Oil 2L;2;৳700.00;nagad;delivered
+  ord100057 ; 2026-10-12 ; Nazmul   Haque ; Dim 12pc ; 2 ;৳ 294.50; Cash on Delivery ;DELIVERED
+ORD100058 ; 2026-10-13 ;  rumana  begum ; Miniket Chal 5kg ; 3 ; ৳ 1,860.75 ; bkash ; delivered
+ord100059;2026-10-13;TOFAZZAL hossain;Ilish 1kg;1;৳1,520.00;Card;cancelled
+  ORD100060 ; 2026-10-13 ; shirin  akter ; Doodh 1L ; 4 ; ৳ 372.00 ; nagad ; delivered
+ord100061 ; 2026-10-14 ; Parvez   Alam ; Broiler Murgi 1kg ; 2 ; ৳ 406.00 ; Rocket ; delivered
+ORD100062;2026-10-14;  ARIF hossain  ;Alu 2kg;3;৳ 207.75;BKASH;delivered
+  ord100063 ; 2026-10-15 ;  Lipi  Khatun ; Miniket Chal 5kg ; 2 ; ৳ 1,240.50 ; Cash on Delivery ; delivered
+ORD100064 ; 2026-10-15 ; nazmul   haque ; Chaa Pata 400g ; 1 ;৳ 232.25 ; bkash ;returned
+ord100065;2026-10-15;Jamil  Uddin;Soybean Oil 2L;1;৳ 350.00;nagad;delivered
+  ORD100066 ; 2026-10-16 ; SHIRIN akter ; Peyaj 1kg ; 2 ; ৳ 146.50 ; nagad ; delivered
+ord100067 ; 2026-10-16 ;  Rumana   Begum ; Dim 12pc ; 1 ; ৳ 147.25 ; Card ; delivered
+ORD100068;2026-10-17;parvez  alam;Apel 1kg;2;৳ 1,105.00;bKash;delivered
+  ord100069 ; 2026-10-17 ; Lipi   Khatun ; Doodh 1L ; 3 ;৳ 279.00; CASH ON DELIVERY ; delivered
+ORD100070 ; 2026-10-17 ;  jamil uddin  ; Ilish 1kg ; 1 ; ৳ 1,480.00 ; Rocket ; cancelled
+ord100071;2026-10-18;Arif  Hossain;Broiler Murgi 1kg;1;৳ 203.00;bkash;delivered
+  ORD100072 ; 2026-10-18 ; Nazmul  Haque ; Miniket Chal 5kg ; 1 ; ৳ 620.25 ; nagad ; delivered
